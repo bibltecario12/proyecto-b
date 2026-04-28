@@ -41,9 +41,21 @@ Ejemplo de una lista de tareas
 
 Ejemplo de una sección de código
 
-´´´python
+```python
 print("Hola, cómo estás")
-if (x=5):
+if (x=5)
    print("Ganaste")
-else:
+else
     print("Perdiste")
+```
+
+Tabla de verdad
+
+A  |  B  |  A AND B
+---|-----|---------|
+V  |  V  |  V
+V  |  F  |  F
+F  |  V  |  V
+F  |  F  |  F
+
+Sporte a emojis 😿
