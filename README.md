@@ -1,4 +1,4 @@
-\# Repositorio clase ABC grupo B
+\#Repositorio clase ABC grupo B
 
 
 
